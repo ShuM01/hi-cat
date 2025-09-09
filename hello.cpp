@@ -2,8 +2,7 @@
 using namespace std;
 
 int main() {
-	cout << "Hello, stack!\n";
-
+	cout << "Hello, steak!\n";
 	return 0;
 }
 
